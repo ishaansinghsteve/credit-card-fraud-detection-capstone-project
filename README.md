@@ -6,7 +6,7 @@ Project Overview:
 
 This Business Analytics project focuses on analysing historical credit card transaction and location data to identify potential fraud patterns and understand transaction behaviour across categories, customer demographics, and geographical regions. Using Microsoft Excel, MySQL, and Power BI, the project applies data exploration, descriptive analysis, SQL querying, and interactive visualisation to generate actionable business insights and support data-driven fraud risk assessment.
 
-Project Components
+Project Components:
 
 1. Business Requirements Document (BRD): Defines the project background, business objectives, scope, stakeholders, requirements, constraints, and cost-benefit analysis.
 
@@ -18,7 +18,7 @@ Project Components
 
 5. Final Insights and Recommendations (PDF): Consolidates findings from Excel, SQL, and Power BI, highlighting key observations and business recommendations.
 
-Tools & Techniques
+Tools & Techniques:
 
 Tools: Microsoft Excel | MySQL | Power BI | Asana
 
